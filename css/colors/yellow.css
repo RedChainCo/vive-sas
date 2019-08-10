@@ -1,0 +1,279 @@
+/* yellow #cbd93b
+====================================================================== */
+
+::selection
+{
+	color: white;
+	background-color: #cbd93b;
+}
+::-moz-selection  
+{
+	color: white;
+	background-color: #cbd93b;
+}
+
+.search-submit:hover {
+	background-color: #cbd93b;
+}
+.facebook-link, .skype-link, .twitter-link, .flickr-link, .vimeo-link, .dribbble-link, .linkedin-link, .rss-link, .googleplus-link, .pintrest-link  {
+	background-color:#cbd93b;
+}
+#main-nav .current > a {
+	background-color:#cbd93b;
+	color:#414146 !important;
+}
+#main-nav .current li.current a, #main-nav .current li.current li.current a {
+	background-color:#cbd93b;/**/
+}
+#main-nav a:hover {
+	background-color:#cbd93b;
+}
+.sf-menu li li a:hover{
+	color: #414146 !important;
+	background: #cbd93b !important;
+}
+/**************3 BLOCKS**********************/
+.block-1-content-container {
+	background-color:#cbd93b;
+}
+.block-2-content-container {
+	background-color:#edda06;
+}
+.block-3-content-container {
+	background-color:#decb01;
+}
+.block-black-text {
+	background-color:#cbd93b;
+}
+.box2-img-container {
+	background-color:#cbd93b;
+}
+.block2-a:hover .box2-img-container-inv {
+	background-color:#cbd93b;
+}
+.box3-img-container {
+	background-color:#cbd93b;
+}
+.block3-a:hover .box3-img-container-inv {
+	background-color:#cbd93b;
+}
+.box3-description-container {
+	border-bottom:3px solid #cbd93b;
+}
+.box5-img-container, .box5-img-container-inv {
+	background-color:#cbd93b;
+}
+.block5-a:hover .box5-img-container-inv {
+	background-color:#cbd93b;
+}
+.buy-img-container {
+	background-color:#cbd93b;
+}
+.button-buy-container a{
+	background-color: #cbd93b;
+}
+.nl-img-container {
+	background-color:#cbd93b;
+}
+.nl-button {
+	background-color: #cbd93b;
+}
+.jcarousel-next:hover, .jcarousel-prev:hover {
+	background-color:#cbd93b;
+}
+.bg-45{
+	background-color:#cbd93b;
+}
+.view-first .mask {
+    background-color: #cbd93b;
+}
+.page-title-container {
+	background-color:#cbd93b;
+}
+.contact-loc:after{
+	background-color: #cbd93b;
+}
+.contact-phone:after{
+	background-color: #cbd93b;
+}
+.contact-mail:after{
+	background-color: #cbd93b;
+}
+.contact-mail a:hover{
+	color:#cbd93b;
+}
+.blog-item-date-cont  {
+	background-color: #cbd93b;
+}
+.blog-item-title-cont a:hover {
+	background-color:#cbd93b;
+}
+.pagination-1 a:hover {
+	background-color:#cbd93b;
+}
+.pagination-1 a.pag-current {
+	background:#cbd93b;
+}
+.pagination-1 .pag-prev:hover {
+	background-color:#cbd93b;
+}
+.pagination-1 .pag-next:hover {
+	background-color:#cbd93b;
+}
+.blog-categories li a:hover{
+	color:#cbd93b;
+}
+.blog-categories li a:hover .blog-cat-icon{
+	background-color:#cbd93b;
+}
+.blog-categories li.active .blog-cat-icon{
+	background-color:#cbd93b;
+}
+.latest-post-sidebar img:hover {
+    border-color: #cbd93b;
+	background: none repeat scroll 0 0 #cbd93b;
+}
+.skill-bar-content {
+	background: #cbd93b;
+}
+.ui-accordion-header:hover a{
+	color:#cbd93b;
+}
+.ui-accordion-header-active a{
+	color:#cbd93b;
+}
+.ui-accordion-header:hover span{
+	background-color: #cbd93b;
+}
+.ui-accordion-header-active span {
+	background-color: #cbd93b;
+}
+.tag-cloud a:hover {
+	background-color:#cbd93b;
+}
+.comment-name a:hover{
+	color:#cbd93b;
+}
+.comment-reply  a{
+	background-color:#cbd93b;
+}
+.author-name a:hover {
+	color:#cbd93b;
+}
+.dropcap4 {
+	background: none repeat scroll 0 0 #cbd93b;
+}
+#toggle-view .ui-accordion-header-active {
+	color:#cbd93b;
+}
+#toggle-view .ui-accordion-header:hover {
+	color:#cbd93b;
+}
+.box-icon:hover i {
+	background-color:#cbd93b;
+}
+.latest-post h4 a:hover {
+	color:#cbd93b;
+}
+.footer-mail a:hover{
+    color:#cbd93b;
+}
+#footer-nav li a:hover {
+	color:#cbd93b;
+}
+a.author:hover {
+	color:#cbd93b;
+}
+.tweet_text a:hover, .tweet_time a:hover {
+	color:#cbd93b;
+}
+.price-col-main h1 {
+	background-color: #cbd93b;
+}
+.pt-col-main {
+	background-color:#cbd93b;
+}
+h1.pt-col-main {
+	background-color:#cbd93b;
+}
+.r-m-plus:after{
+	background-color:#cbd93b !important;
+}
+a.r-m-full:hover {
+	background-color:#cbd93b;
+}
+a.r-m-plus-small {
+    background-color:#cbd93b !important;
+}
+.button {
+	background-color:#cbd93b;
+}
+.button.gray:hover {
+	background-color:#cbd93b; 
+}
+a {
+    color: #cbd93b;
+}
+.a-invert:hover{
+	color: #cbd93b;
+}
+.button.get-theme {
+	background-color:#cbd93b;
+}
+.view a.zoom:hover, .view a.link:hover  {
+	background-color: #cbd93b;
+}
+#back-top a:hover {
+	background-color: #cbd93b;
+}
+/**********SKELETON*******************/
+	blockquote:before {
+	background-color:#cbd93b;
+}
+
+
+/****************FLEXSLIDER 1********************/
+.flex-direction-nav li a:hover {
+	opacity:1; filter:alpha(opacity=100);
+	background-color: #cbd93b !important;
+}
+.slider-1 .slides li h2 { 
+	background-color:#cbd93b;
+}
+.flex-direction-nav li a:hover {
+	opacity:1; filter:alpha(opacity=100);
+	background-color: #cbd93b !important;
+}
+/****************FLEXSLIDER 2********************/
+.flexslider .flex-next:hover { background-color:#cbd93b;background-image: url(../images/next-small-black.html);
+	background-repeat: no-repeat;
+	background-position: center center;/* right: -33px;*/}
+.flexslider .flex-prev:hover { background-color:#cbd93b;background-image: url(../images/prev-small-black.html);
+	background-repeat: no-repeat;
+	background-position: center center;/*left: -33px;*/}
+.flex-control-paging li a:hover { background-color: #cbd93b; }
+.flex-control-paging li a.flex-active:hover { background-color: #cbd93b; }
+
+
+/****************SEQUENCE SLIDER 1********************/
+#sequence-theme .nav li img.active   {
+  border-top: 5px solid #cbd93b;
+}
+#sequence-theme .prev {
+	background-color: #cbd93b;
+}
+#sequence-theme .next.slider1:hover,
+#sequence-theme .prev.slider1:hover {
+    background-color:#cbd93b;
+}
+#sequence-theme .main-text {
+	border-left:5px solid #cbd93b;
+}
+#sequence-theme .color {
+	color:#cbd93b;
+}
+/****************SEQUENCE SLIDER 2********************/
+.sequence-theme-6 #sequence-theme .next:hover,
+.sequence-theme-6 #sequence-theme .prev:hover {
+  background-color:#cbd93b;
+}
